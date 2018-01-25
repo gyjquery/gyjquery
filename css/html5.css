@@ -6,6 +6,7 @@ div.phwall{
 div.wall{
 	font: bold 30px "微软雅黑";
 	color:#fff;
+	margin-left: 50px;
 }
 div.phwall div.h5_1{
 	margin-top: 20px;
