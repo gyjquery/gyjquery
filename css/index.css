@@ -1,0 +1,7 @@
+span.music{
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	background: url(../img/musicon.gif) no-repeat;
+	cursor: pointer;
+}
